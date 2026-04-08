@@ -31,5 +31,5 @@ npm run dev
 
 ## Ссылки
 
-- Репозиторий: `https://github.com/NLyapin/lab14-Web-tech`
-- GitHub Pages: `https://nlyapin.github.io/lab14-Web-tech/`
+- Репозиторий: `https://github.com/NLyapin/Lab_14_JS_PDF_Material_Wave`
+- GitHub Pages: `https://nlyapin.github.io/Lab_14_JS_PDF_Material_Wave/`
